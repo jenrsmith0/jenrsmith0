@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I'm currently a student at UMary
+- 🌱 I'm studying computer science
+
 <!--
 **jenrsmith0/jenrsmith0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
